@@ -20,3 +20,7 @@ public class QcalcApplication {
 	}
 
 }
+
+//What does this weird @ symbol mean?
+// It is called Java Annotation which is a tag that represents the metadata it is attached to class , interface , methods or feilds to indicate some more information which can be used by java compiler
+
