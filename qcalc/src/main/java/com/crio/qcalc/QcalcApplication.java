@@ -24,9 +24,13 @@ public class QcalcApplication {
 	}
 
 }
-
-
-
-//What does this weird @ symbol mean?
-// It is called Java Annotation which is a tag that represents the metadata it is attached to class , interface , methods or feilds to indicate some more information which can be used by java compiler
-
+/*
+ * @Override annotation assures that the subclass method is overriding the parent class method. If
+ * it is not so, compile time error occurs.
+ * 
+ * @SuppressWarnings annotation: is used to suppress warnings issued by the compiler.
+ * 
+ * @Deprecated annoation marks that this method is deprecated so compiler prints warning. It informs user that it may be removed in the future versions. So, it is better not to use such methods.
+ * 
+ * 
+ */
